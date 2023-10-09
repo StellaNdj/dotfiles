@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = stelladiana@live.fr
+	name = Stella Ndjikessi
